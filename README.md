@@ -8,7 +8,7 @@ O projeto do Sistema Intelegente para Análise de Crédito toma com base o datas
 
 **Dataset tratado na fase de Manipulação de dados foi disponibilizado na pasta do GitHub, no link abaixo:**
 
-Link: "https://raw.githubusercontent.com/MarialdoFerreira/mvp-qua-seg-inteligencia-back/refs/heads/main/credito-preprocessado.csv"
+Link: "https://raw.githubusercontent.com/MarialdoFerreira/mvp-qualy-seg-inteligencia-back/refs/heads/main/MachineLearning/data/credito-preprocessado.csv"
 
 A escolha deste assunto, deve a afinidade com a área de trabalho que atuo.  
 Este projeto foi desenvolvido visando colocar em prática os conhecimentos adquiridos nesta disciplina.
